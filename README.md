@@ -15,7 +15,7 @@ This project focuses on conducting a comprehensive analysis of bank loan data us
 + **MySQL**
 + **Power BI**
 + **Power Query**
-**Database :- Excel**
+###### Database :- Excel
   
 ### ⏬️PROBLEM STATEMENT
 ### DASHBOARD 1: SUMMARY
