@@ -40,7 +40,7 @@ This project focuses on conducting a comprehensive analysis of bank loan data us
 
 #### Loan Status Grid View :
 In order to gain a comprehensive overview of our lending operations and monitor the performance of loans, we aim to create a grid view report categorized by 'Loan Status.’ By providing insights into metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI),' this grid view will empower us to make data-driven decisions and assess the health of our loan portfolio.
-## Power BI
+## Power BI Report
 ### 📊DASHBOARD 1: SUMMARY 
 <img width="800" alt="Screenshot 2024-11-14 131106" src="https://github.com/user-attachments/assets/70577881-9e6f-41fd-98e9-9de8ce890878">
 
@@ -63,11 +63,9 @@ Need for a comprehensive 'Details Dashboard' that provides a consolidated view o
 ### 📊DASHBOARD 3: DETAILS
 <img width="800" alt="Screenshot 2024-11-14 133655" src="https://github.com/user-attachments/assets/26eaf7cf-0b82-4bc4-834f-e603b87bdcc1">
 
-## Excel 
+## Excel Report
 ### 📊DASHBOARD 1: SUMMARY 
 <img width="800" alt="Screenshot 2024-11-14 134510" src="https://github.com/user-attachments/assets/1d56a9a0-0608-408d-a11a-a18629ce8811">
-
-<img width="800" alt="Screenshot 2024-11-14 135237" src="https://github.com/user-attachments/assets/fb0fc0c7-cd75-420f-996a-423f148ec19c">
 
 ### 📊DASHBOARD 2: OVERVIEW
 <img width="800" alt="Screenshot 2024-11-14 134816" src="https://github.com/user-attachments/assets/38377cd1-0abc-4891-b245-d6c3a637e5e6">
