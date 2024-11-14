@@ -1,4 +1,4 @@
-# Bank_Loan_Report
+# Bank_Loan_Analysis
 
 ### ✅️Introduction
 As part of my recent project, I developed a comprehensive loan analytics dashboard using Power BI, SQL, and Excel. This dashboard is designed to provide in-depth insights into key performance indicators (KPIs) critical to the operations of a lending institution. The primary goal was to create a user-friendly and interactive interface that enables stakeholders to monitor and analyze various metrics related to loan applications, funded amounts, repayments, interest rates, and debt-to-income ratios.
