@@ -63,6 +63,17 @@ Need for a comprehensive 'Details Dashboard' that provides a consolidated view o
 ### 📊DASHBOARD 3: DETAILS
 <img width="800" alt="Screenshot 2024-11-14 133655" src="https://github.com/user-attachments/assets/26eaf7cf-0b82-4bc4-834f-e603b87bdcc1">
 
+## Excel 
+### 📊DASHBOARD 1: SUMMARY 
+<img width="800" alt="Screenshot 2024-11-14 134510" src="https://github.com/user-attachments/assets/1d56a9a0-0608-408d-a11a-a18629ce8811">
 
+### 📊DASHBOARD 2: OVERVIEW
+<img width="800" alt="Screenshot 2024-11-14 134816" src="https://github.com/user-attachments/assets/38377cd1-0abc-4891-b245-d6c3a637e5e6">
 
+### Conclusion
+By integrating robust SQL querying capabilities with dynamic Power BI visualizations, this project facilitates a thorough exploration of bank loan data, empowering stakeholders to make informed decisions and optimize lending strategies.
+
+### Recommendations
++ **Enhanced Insights**: Explore predictive analytics and machine learning models to forecast loan defaults and borrower behavior.
++ **Operational Efficiency**: Implement automation in data refreshes and reporting processes to ensure real-time access to critical insights.
 
