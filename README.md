@@ -52,7 +52,7 @@ In order to gain a comprehensive overview of our lending operations and monitor 
 + **Employee Length Analysis (Bar Chart)** : How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
 + **Loan Purpose Breakdown (Bar Chart)** : Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
 + **Home Ownership Analysis (Map)** : For a hierarchical view of how home ownership impacts loan applications and disbursements.
-**Metrics to be shown:- 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'**
++ **Metrics to be shown:- 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'**
 
 ### 📊DASHBOARD 2: OVERVIEW
 <img width="800" alt="Screenshot 2024-11-14 133124" src="https://github.com/user-attachments/assets/cb7d6bce-c720-4bbb-8a29-9f2bf1c79d20">
