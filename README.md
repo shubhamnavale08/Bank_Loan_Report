@@ -27,18 +27,18 @@ This project focuses on conducting a comprehensive analysis of bank loan data us
 + **Average Debt-to-Income Ratio (DTI)** : Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
 
 #### Good Loan v Bad Loan KPI’s
-+ **Good Loan** :
-Good Loan Application Percentage
-Good Loan Applications
-Good Loan Funded Amount
-Good Loan Total Received Amount
-+ **Bad Loan** :
-Bad Loan Application Percentage
-Bad Loan Applications
-Bad Loan Funded Amount
-Bad Loan Total Received Amount
+**Good Loan** :
++ Good Loan Application Percentage
++ Good Loan Applications
++ Good Loan Funded Amount
++ Good Loan Total Received Amount
+**Bad Loan** :
++ Bad Loan Application Percentage
++ Bad Loan Applications
++ Bad Loan Funded Amount
++ Bad Loan Total Received Amount
 
-####Loan Status Grid View
+#### Loan Status Grid View :
 In order to gain a comprehensive overview of our lending operations and monitor the performance of loans, we aim to create a grid view report categorized by 'Loan Status.’ By providing insights into metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI),' this grid view will empower us to make data-driven decisions and assess the health of our loan portfolio.
 
 
