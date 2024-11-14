@@ -67,7 +67,7 @@ Need for a comprehensive 'Details Dashboard' that provides a consolidated view o
 ### 📊DASHBOARD 1: SUMMARY 
 <img width="800" alt="Screenshot 2024-11-14 134510" src="https://github.com/user-attachments/assets/1d56a9a0-0608-408d-a11a-a18629ce8811">
 
-<img width="708" alt="Screenshot 2024-11-14 135237" src="https://github.com/user-attachments/assets/fb0fc0c7-cd75-420f-996a-423f148ec19c">
+<img width="800" alt="Screenshot 2024-11-14 135237" src="https://github.com/user-attachments/assets/fb0fc0c7-cd75-420f-996a-423f148ec19c">
 
 ### 📊DASHBOARD 2: OVERVIEW
 <img width="800" alt="Screenshot 2024-11-14 134816" src="https://github.com/user-attachments/assets/38377cd1-0abc-4891-b245-d6c3a637e5e6">
