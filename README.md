@@ -63,6 +63,9 @@ Need for a comprehensive 'Details Dashboard' that provides a consolidated view o
 ### 📊DASHBOARD 3: DETAILS
 <img width="800" alt="Screenshot 2024-11-14 133655" src="https://github.com/user-attachments/assets/26eaf7cf-0b82-4bc4-834f-e603b87bdcc1">
 
+### Data Modelling
+<img width="730" alt="Screenshot 2024-11-14 141616" src="https://github.com/user-attachments/assets/289c8bd5-5acf-4b60-97ab-f0eff1e80848">
+
 ## Excel Report
 ### 📊DASHBOARD 1: SUMMARY 
 <img width="800" alt="Screenshot 2024-11-14 134510" src="https://github.com/user-attachments/assets/1d56a9a0-0608-408d-a11a-a18629ce8811">
