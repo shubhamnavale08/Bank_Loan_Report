@@ -42,7 +42,7 @@ This project focuses on conducting a comprehensive analysis of bank loan data us
 In order to gain a comprehensive overview of our lending operations and monitor the performance of loans, we aim to create a grid view report categorized by 'Loan Status.’ By providing insights into metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI),' this grid view will empower us to make data-driven decisions and assess the health of our loan portfolio.
 
 ### 📊DASHBOARD 1: SUMMARY 
-<img width="850" alt="Screenshot 2024-11-14 131106" src="https://github.com/user-attachments/assets/70577881-9e6f-41fd-98e9-9de8ce890878">
+<img width="800" alt="Screenshot 2024-11-14 131106" src="https://github.com/user-attachments/assets/70577881-9e6f-41fd-98e9-9de8ce890878">
 
 #### DASHBOARD 2: OVERVIEW:
 ##### CHARTS
@@ -56,7 +56,7 @@ In order to gain a comprehensive overview of our lending operations and monitor 
 ##### Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'
 
 ### 📊DASHBOARD 2: OVERVIEW:
-<img width="850" alt="Screenshot 2024-11-14 133124" src="https://github.com/user-attachments/assets/cb7d6bce-c720-4bbb-8a29-9f2bf1c79d20">
+<img width="800" alt="Screenshot 2024-11-14 133124" src="https://github.com/user-attachments/assets/cb7d6bce-c720-4bbb-8a29-9f2bf1c79d20">
 
 
 
