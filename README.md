@@ -61,7 +61,7 @@ In order to gain a comprehensive overview of our lending operations and monitor 
 + **GRID** :
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
 ### 📊DASHBOARD 3: DETAILS
-<img width="714" alt="Screenshot 2024-11-14 133655" src="https://github.com/user-attachments/assets/26eaf7cf-0b82-4bc4-834f-e603b87bdcc1">
+<img width="800" alt="Screenshot 2024-11-14 133655" src="https://github.com/user-attachments/assets/26eaf7cf-0b82-4bc4-834f-e603b87bdcc1">
 
 
 
