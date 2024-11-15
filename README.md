@@ -18,6 +18,11 @@ This project focuses on conducting a comprehensive analysis of bank loan data us
 ##### Database :- Excel
   
 ### ⏬️PROBLEM STATEMENT
+
+### FIRING SQL QUERIES TO SOLVE THE BUSINESS PROBLEMS
+### COMPARING RESULTS WITH POWER BI and EXCEL
+<img width="799" alt="Screenshot 2024-11-14 153032" src="https://github.com/user-attachments/assets/aac4d97d-c737-4b80-8978-76214aa91eab">
+
 ### DASHBOARD 1: SUMMARY
 #### Key Performance Indicators (KPIs) Requirements:
 + **Total Loan Applications** : We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
