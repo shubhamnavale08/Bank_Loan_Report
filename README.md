@@ -19,8 +19,8 @@ This project focuses on conducting a comprehensive analysis of bank loan data us
   
 ### ⏬️PROBLEM STATEMENT
 
-### FIRING SQL QUERIES TO SOLVE THE BUSINESS PROBLEMS
-### COMPARING RESULTS WITH POWER BI and EXCEL
+#### FIRING SQL QUERIES TO SOLVE THE BUSINESS PROBLEMS
+#### COMPARING RESULTS WITH POWER BI and EXCEL
 <img width="799" alt="Screenshot 2024-11-14 153032" src="https://github.com/user-attachments/assets/aac4d97d-c737-4b80-8978-76214aa91eab">
 
 ### DASHBOARD 1: SUMMARY
